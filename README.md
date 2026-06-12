@@ -20,4 +20,20 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [1193-monthly-transactions-i](https://github.com/romiisromie/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/romiisromie/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/romiisromie/leetcode-solutions/tree/master/1341-movie-rating) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
