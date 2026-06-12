@@ -8,6 +8,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | ------- |
 | [0175-combine-two-tables](https://github.com/romiisromie/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/romiisromie/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0262-trips-and-users](https://github.com/romiisromie/leetcode-solutions/tree/master/0262-trips-and-users) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/romiisromie/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/romiisromie/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/romiisromie/leetcode-solutions/tree/master/0608-tree-node) |
