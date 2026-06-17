@@ -61,6 +61,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [0001-two-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/romiisromie/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -81,6 +82,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -146,5 +148,10 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+## Matrix
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
