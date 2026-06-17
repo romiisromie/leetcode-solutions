@@ -45,6 +45,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/romiisromie/leetcode-solutions/tree/master/0155-min-stack) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -126,6 +127,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/romiisromie/leetcode-solutions/tree/master/0155-min-stack) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
