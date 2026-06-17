@@ -133,6 +133,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
