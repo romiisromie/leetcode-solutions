@@ -145,6 +145,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [0003-longest-substring-without-repeating-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0482-license-key-formatting](https://github.com/romiisromie/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/romiisromie/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0831-masking-personal-information](https://github.com/romiisromie/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
