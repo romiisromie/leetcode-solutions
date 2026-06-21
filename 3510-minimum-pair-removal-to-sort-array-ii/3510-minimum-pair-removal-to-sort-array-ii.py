@@ -6,7 +6,7 @@ class Solution(object):
         if n < 2:
             return 0
             
-        arr = [long(x) for x in nums]
+        arr = [int(x) for x in nums]
         left_idx = [i - 1 for i in range(n)]
         right_idx = [i + 1 for i in range(n)]
         
