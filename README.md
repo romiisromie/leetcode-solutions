@@ -34,6 +34,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
@@ -70,6 +71,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/romiisromie/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -143,6 +145,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/romiisromie/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -198,5 +201,6 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
