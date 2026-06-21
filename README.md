@@ -77,6 +77,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/romiisromie/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
+| [1046-last-stone-weight](https://github.com/romiisromie/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/romiisromie/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -121,6 +122,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/romiisromie/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Tree
