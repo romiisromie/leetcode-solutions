@@ -42,6 +42,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/romiisromie/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
