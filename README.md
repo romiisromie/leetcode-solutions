@@ -1,5 +1,6 @@
 # leetcode-solutions
-Automated repository tracking my algorithmic journey and daily problem-solving on LeetCode using Python. Powered by LeetHub v2.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/romiisromie?theme=unicorn&font=Abhaya%20Libre&ext=heatmap)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
