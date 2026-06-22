@@ -143,6 +143,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/romiisromie/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/romiisromie/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/romiisromie/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/romiisromie/leetcode-solutions/tree/master/0831-masking-personal-information) |
@@ -247,4 +248,8 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [0232-implement-queue-using-stacks](https://github.com/romiisromie/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/romiisromie/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/romiisromie/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/romiisromie/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
