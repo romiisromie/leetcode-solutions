@@ -134,6 +134,7 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [1354-construct-target-array-with-multiple-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/romiisromie/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,4 +267,12 @@ Automated repository tracking my algorithmic journey and daily problem-solving o
 | [0459-repeated-substring-pattern](https://github.com/romiisromie/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/romiisromie/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/romiisromie/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/romiisromie/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
