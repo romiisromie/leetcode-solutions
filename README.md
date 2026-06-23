@@ -112,6 +112,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3701-compute-alternating-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/romiisromie/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -124,6 +125,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3701-compute-alternating-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/romiisromie/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
