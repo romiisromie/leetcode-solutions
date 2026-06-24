@@ -47,6 +47,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/romiisromie/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
+| [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -82,6 +83,7 @@
 | [0715-range-module](https://github.com/romiisromie/leetcode-solutions/tree/master/0715-range-module) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
+| [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/romiisromie/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/romiisromie/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -163,6 +166,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,4 +360,5 @@
 |  |
 | ------- |
 | [0715-range-module](https://github.com/romiisromie/leetcode-solutions/tree/master/0715-range-module) |
+| [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 <!---LeetCode Topics End-->
