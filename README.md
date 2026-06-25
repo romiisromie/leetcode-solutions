@@ -102,6 +102,7 @@
 | [0056-merge-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/romiisromie/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/romiisromie/leetcode-solutions/tree/master/0198-house-robber) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/romiisromie/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/romiisromie/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -352,6 +353,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/romiisromie/leetcode-solutions/tree/master/0198-house-robber) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
