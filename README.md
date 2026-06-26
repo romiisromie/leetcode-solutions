@@ -336,6 +336,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/romiisromie/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Greedy
@@ -344,6 +345,7 @@
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/romiisromie/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Counting Sort
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romiisromie/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/romiisromie/leetcode-solutions/tree/master/0198-house-robber) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/romiisromie/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
