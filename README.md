@@ -34,6 +34,7 @@
 | [0041-first-missing-positive](https://github.com/romiisromie/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/romiisromie/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/romiisromie/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/romiisromie/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -114,6 +115,7 @@
 | [0198-house-robber](https://github.com/romiisromie/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/romiisromie/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/romiisromie/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/romiisromie/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/romiisromie/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/romiisromie/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -361,6 +365,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/romiisromie/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -434,6 +439,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/romiisromie/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -461,4 +467,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
