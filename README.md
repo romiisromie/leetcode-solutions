@@ -57,6 +57,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/romiisromie/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -174,6 +175,7 @@
 | [3637-trionic-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3701-compute-alternating-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/romiisromie/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -368,6 +370,7 @@
 | [1732-find-the-highest-altitude](https://github.com/romiisromie/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -474,6 +477,7 @@
 | ------- |
 | [0715-range-module](https://github.com/romiisromie/leetcode-solutions/tree/master/0715-range-module) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
+| [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -483,6 +487,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/romiisromie/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
