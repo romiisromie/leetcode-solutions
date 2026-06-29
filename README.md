@@ -157,6 +157,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/romiisromie/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/romiisromie/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/romiisromie/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1998-gcd-sort-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -260,6 +261,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/romiisromie/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/romiisromie/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
