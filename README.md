@@ -348,6 +348,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -466,6 +467,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
