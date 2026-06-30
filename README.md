@@ -47,6 +47,7 @@
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/romiisromie/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/romiisromie/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -261,6 +262,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/romiisromie/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/romiisromie/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/romiisromie/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -362,6 +364,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/romiisromie/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/romiisromie/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/romiisromie/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
