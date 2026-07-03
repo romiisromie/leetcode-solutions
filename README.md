@@ -349,6 +349,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/romiisromie/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0263-ugly-number) |
