@@ -278,6 +278,7 @@
 | [0482-license-key-formatting](https://github.com/romiisromie/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/romiisromie/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/romiisromie/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/romiisromie/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
@@ -338,6 +339,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/romiisromie/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0696-count-binary-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
