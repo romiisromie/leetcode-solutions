@@ -160,6 +160,7 @@
 | [1840-maximum-building-height](https://github.com/romiisromie/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/romiisromie/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/romiisromie/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/romiisromie/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/romiisromie/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -415,6 +416,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/romiisromie/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1476-subrectangle-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/1476-subrectangle-queries) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/romiisromie/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
