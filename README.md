@@ -433,6 +433,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/romiisromie/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/romiisromie/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/romiisromie/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -583,6 +584,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/romiisromie/leetcode-solutions/tree/master/0401-binary-watch) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Topological Sort
 |  |
