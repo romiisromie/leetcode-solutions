@@ -59,6 +59,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -295,6 +296,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/romiisromie/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
@@ -419,6 +421,7 @@
 | [1732-find-the-highest-altitude](https://github.com/romiisromie/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
