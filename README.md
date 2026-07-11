@@ -391,6 +391,7 @@
 | [0060-permutation-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/romiisromie/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/romiisromie/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/romiisromie/leetcode-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/romiisromie/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
