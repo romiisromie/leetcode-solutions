@@ -582,6 +582,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/romiisromie/leetcode-solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/romiisromie/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/romiisromie/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
