@@ -398,6 +398,7 @@
 | [0009-palindrome-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/romiisromie/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/romiisromie/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/romiisromie/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -478,6 +479,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/romiisromie/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/romiisromie/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -652,6 +654,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/romiisromie/leetcode-solutions/tree/master/0401-binary-watch) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Topological Sort
