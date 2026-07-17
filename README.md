@@ -60,6 +60,7 @@
 | [2502-design-memory-allocator](https://github.com/romiisromie/leetcode-solutions/tree/master/2502-design-memory-allocator) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/romiisromie/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -195,6 +196,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/romiisromie/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -255,6 +257,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/romiisromie/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -438,6 +441,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/romiisromie/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/romiisromie/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -475,6 +479,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/romiisromie/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -538,6 +543,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
@@ -707,6 +713,7 @@
 | [0204-count-primes](https://github.com/romiisromie/leetcode-solutions/tree/master/0204-count-primes) |
 | [1998-gcd-sort-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/romiisromie/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -714,6 +721,7 @@
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/romiisromie/leetcode-solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
 |  |
 | ------- |
