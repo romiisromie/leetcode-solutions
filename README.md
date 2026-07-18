@@ -149,6 +149,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/romiisromie/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/romiisromie/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/romiisromie/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/romiisromie/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/romiisromie/leetcode-solutions/tree/master/0812-largest-triangle-area) |
@@ -256,6 +257,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/romiisromie/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/romiisromie/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
