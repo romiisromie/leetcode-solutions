@@ -211,6 +211,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/romiisromie/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/romiisromie/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -273,6 +274,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/romiisromie/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/romiisromie/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -343,6 +345,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -669,6 +672,7 @@
 | ------- |
 | [0715-range-module](https://github.com/romiisromie/leetcode-solutions/tree/master/0715-range-module) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
