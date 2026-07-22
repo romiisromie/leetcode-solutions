@@ -53,6 +53,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/romiisromie/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -335,6 +336,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/romiisromie/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/romiisromie/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -545,6 +547,7 @@
 | [0868-binary-gap](https://github.com/romiisromie/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/romiisromie/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/romiisromie/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -769,4 +772,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
