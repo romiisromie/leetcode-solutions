@@ -351,6 +351,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -406,6 +407,7 @@
 | [1998-gcd-sort-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/romiisromie/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/romiisromie/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/romiisromie/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -591,6 +593,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
