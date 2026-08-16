@@ -161,6 +161,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/romiisromie/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/romiisromie/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -484,6 +485,7 @@
 | [0728-self-dividing-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/romiisromie/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/romiisromie/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/romiisromie/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -676,6 +678,7 @@
 | [0198-house-robber](https://github.com/romiisromie/leetcode-solutions/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/romiisromie/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0799-champagne-tower](https://github.com/romiisromie/leetcode-solutions/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/romiisromie/leetcode-solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1301-number-of-paths-with-max-score](https://github.com/romiisromie/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/romiisromie/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -828,10 +831,12 @@
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/romiisromie/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/romiisromie/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -840,5 +845,6 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/romiisromie/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
