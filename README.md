@@ -363,6 +363,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -508,6 +509,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/romiisromie/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -611,6 +613,7 @@
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/romiisromie/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
@@ -787,6 +790,7 @@
 | [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/romiisromie/leetcode-solutions/tree/master/0401-binary-watch) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -815,6 +819,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/romiisromie/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
