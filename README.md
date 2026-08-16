@@ -178,6 +178,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/romiisromie/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1406-stone-game-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/romiisromie/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -489,6 +490,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/romiisromie/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/romiisromie/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/romiisromie/leetcode-solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -681,6 +683,7 @@
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/romiisromie/leetcode-solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1301-number-of-paths-with-max-score](https://github.com/romiisromie/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/romiisromie/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/romiisromie/leetcode-solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/romiisromie/leetcode-solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -832,11 +835,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/romiisromie/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/romiisromie/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -846,5 +851,6 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/romiisromie/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
