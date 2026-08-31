@@ -95,6 +95,7 @@
 | [0355-design-twitter](https://github.com/romiisromie/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/romiisromie/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0460-lfu-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/romiisromie/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
