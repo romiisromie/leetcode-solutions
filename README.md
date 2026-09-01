@@ -71,6 +71,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/romiisromie/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3713-longest-balanced-substring-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/romiisromie/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -247,6 +248,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/romiisromie/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/romiisromie/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/romiisromie/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3637-trionic-array-i) |
@@ -621,6 +623,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/romiisromie/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/romiisromie/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/romiisromie/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
@@ -648,6 +651,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/romiisromie/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/romiisromie/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -845,6 +849,7 @@
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/romiisromie/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/romiisromie/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/romiisromie/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
