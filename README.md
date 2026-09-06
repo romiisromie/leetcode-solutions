@@ -370,6 +370,7 @@
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/romiisromie/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/romiisromie/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/romiisromie/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -751,6 +752,7 @@
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romiisromie/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
