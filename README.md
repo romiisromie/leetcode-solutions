@@ -57,6 +57,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/romiisromie/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/romiisromie/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -205,6 +206,7 @@
 | [1563-stone-game-v](https://github.com/romiisromie/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/romiisromie/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/romiisromie/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/romiisromie/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/romiisromie/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/romiisromie/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -324,6 +326,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/romiisromie/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/romiisromie/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -619,6 +622,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/romiisromie/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/romiisromie/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/romiisromie/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/romiisromie/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/romiisromie/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -635,6 +639,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/romiisromie/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/romiisromie/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/romiisromie/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/romiisromie/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/romiisromie/leetcode-solutions/tree/master/1872-stone-game-viii) |
