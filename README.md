@@ -172,6 +172,7 @@
 | [0739-daily-temperatures](https://github.com/romiisromie/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/romiisromie/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/romiisromie/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
@@ -636,6 +637,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/romiisromie/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/romiisromie/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/1260-shift-2d-grid) |
