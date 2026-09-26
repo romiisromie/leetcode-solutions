@@ -546,6 +546,7 @@
 | [0728-self-dividing-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/romiisromie/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/romiisromie/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/romiisromie/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -933,6 +934,7 @@
 | [0149-max-points-on-a-line](https://github.com/romiisromie/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/romiisromie/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/romiisromie/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/romiisromie/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/romiisromie/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Radix Sort
