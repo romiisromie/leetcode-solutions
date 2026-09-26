@@ -54,6 +54,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/romiisromie/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -395,6 +396,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/romiisromie/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -465,6 +467,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/romiisromie/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/romiisromie/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/romiisromie/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -689,6 +692,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/romiisromie/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/romiisromie/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
