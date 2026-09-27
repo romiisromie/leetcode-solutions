@@ -403,6 +403,7 @@
 | [0065-valid-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/romiisromie/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/romiisromie/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0481-magical-string) |
@@ -786,6 +787,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/romiisromie/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/romiisromie/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -1005,10 +1007,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Minimax
 |  |
@@ -1067,4 +1071,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/romiisromie/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
