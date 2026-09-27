@@ -169,6 +169,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/romiisromie/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/romiisromie/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/romiisromie/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/romiisromie/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -322,6 +323,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/romiisromie/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/romiisromie/leetcode-solutions/tree/master/0704-binary-search) |
@@ -461,6 +463,7 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/romiisromie/leetcode-solutions/tree/master/0715-range-module) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/romiisromie/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -861,6 +864,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/romiisromie/leetcode-solutions/tree/master/0715-range-module) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/romiisromie/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -879,6 +883,7 @@
 | [0191-number-of-1-bits](https://github.com/romiisromie/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -890,6 +895,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/romiisromie/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1035,4 +1041,12 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
