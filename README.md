@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/romiisromie/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/romiisromie/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -417,6 +418,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/romiisromie/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -492,6 +494,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -552,6 +555,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/romiisromie/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/romiisromie/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -942,6 +946,7 @@
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/romiisromie/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/romiisromie/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/romiisromie/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -955,6 +960,7 @@
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/romiisromie/leetcode-solutions/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
