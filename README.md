@@ -402,6 +402,7 @@
 | [0014-longest-common-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
@@ -547,6 +548,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -831,6 +833,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/romiisromie/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -1076,6 +1079,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
