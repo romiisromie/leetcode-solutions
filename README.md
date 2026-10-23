@@ -287,6 +287,7 @@
 | [3637-trionic-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/romiisromie/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/romiisromie/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3701-compute-alternating-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/romiisromie/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -769,6 +770,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romiisromie/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/romiisromie/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/romiisromie/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
