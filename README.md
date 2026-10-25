@@ -199,6 +199,7 @@
 | [1046-last-stone-weight](https://github.com/romiisromie/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -491,6 +492,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1254-number-of-closed-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/romiisromie/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/romiisromie/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -734,6 +736,7 @@
 | [0835-image-overlap](https://github.com/romiisromie/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/romiisromie/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/romiisromie/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/romiisromie/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -981,6 +984,7 @@
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/romiisromie/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -995,6 +999,7 @@
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/romiisromie/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/romiisromie/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/romiisromie/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
