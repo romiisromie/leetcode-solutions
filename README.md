@@ -352,6 +352,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/romiisromie/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/romiisromie/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -369,6 +370,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/romiisromie/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0450-delete-node-in-a-bst](https://github.com/romiisromie/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -427,6 +429,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/romiisromie/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/romiisromie/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
