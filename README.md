@@ -52,6 +52,7 @@
 | [0460-lfu-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/romiisromie/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/romiisromie/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/romiisromie/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/romiisromie/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -196,6 +197,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/romiisromie/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/romiisromie/leetcode-solutions/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/romiisromie/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/romiisromie/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -482,6 +484,7 @@
 | [0678-valid-parenthesis-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/romiisromie/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0720-longest-word-in-dictionary](https://github.com/romiisromie/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/romiisromie/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -536,6 +539,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/romiisromie/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Union-Find
@@ -577,6 +581,7 @@
 | [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/romiisromie/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/romiisromie/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
