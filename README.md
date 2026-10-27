@@ -37,6 +37,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/romiisromie/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/romiisromie/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/romiisromie/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/romiisromie/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/romiisromie/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
@@ -174,6 +175,7 @@
 | [0135-candy](https://github.com/romiisromie/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/romiisromie/leetcode-solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/romiisromie/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/romiisromie/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -481,6 +483,7 @@
 | [0093-restore-ip-addresses](https://github.com/romiisromie/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/romiisromie/leetcode-solutions/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/romiisromie/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -546,6 +549,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/romiisromie/leetcode-solutions/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/romiisromie/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/romiisromie/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
@@ -994,6 +998,7 @@
 | [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romiisromie/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/romiisromie/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/romiisromie/leetcode-solutions/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/romiisromie/leetcode-solutions/tree/master/0233-number-of-digit-one) |
@@ -1322,6 +1327,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/romiisromie/leetcode-solutions/tree/master/0139-word-break) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/romiisromie/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -1389,4 +1395,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/0494-target-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/romiisromie/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
