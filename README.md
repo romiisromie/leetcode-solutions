@@ -313,6 +313,7 @@
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/romiisromie/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/romiisromie/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -450,6 +451,7 @@
 | [1392-longest-happy-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/romiisromie/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -687,6 +689,7 @@
 | [0206-reverse-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/romiisromie/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/romiisromie/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
