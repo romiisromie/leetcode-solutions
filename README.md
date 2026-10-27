@@ -878,6 +878,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/romiisromie/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/romiisromie/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/romiisromie/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/romiisromie/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -1220,4 +1221,8 @@
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/romiisromie/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/romiisromie/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
