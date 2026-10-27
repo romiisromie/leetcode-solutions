@@ -246,6 +246,7 @@
 | [1998-gcd-sort-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2029-stone-game-ix](https://github.com/romiisromie/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/romiisromie/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/romiisromie/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/romiisromie/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -880,6 +881,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/romiisromie/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/romiisromie/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/romiisromie/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/romiisromie/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/romiisromie/leetcode-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -1054,6 +1056,7 @@
 | [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/romiisromie/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/romiisromie/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
 |  |
