@@ -455,6 +455,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/romiisromie/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1039,6 +1040,7 @@
 | [0093-restore-ip-addresses](https://github.com/romiisromie/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/romiisromie/leetcode-solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/romiisromie/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
