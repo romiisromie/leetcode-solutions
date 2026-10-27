@@ -539,6 +539,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/romiisromie/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/romiisromie/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
