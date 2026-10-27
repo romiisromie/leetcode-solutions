@@ -138,6 +138,7 @@
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [2502-design-memory-allocator](https://github.com/romiisromie/leetcode-solutions/tree/master/2502-design-memory-allocator) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/romiisromie/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -404,6 +405,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/romiisromie/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/romiisromie/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -903,6 +905,7 @@
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/romiisromie/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/romiisromie/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/romiisromie/leetcode-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/romiisromie/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/romiisromie/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/romiisromie/leetcode-solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -918,6 +921,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/romiisromie/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/romiisromie/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/romiisromie/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
