@@ -292,6 +292,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/romiisromie/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3115-maximum-prime-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/romiisromie/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -739,6 +740,7 @@
 | [2485-find-the-pivot-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/romiisromie/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3115-maximum-prime-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/romiisromie/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1194,6 +1196,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/romiisromie/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/romiisromie/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/romiisromie/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1410,4 +1413,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
