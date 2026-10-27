@@ -397,6 +397,7 @@
 | [0355-design-twitter](https://github.com/romiisromie/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/romiisromie/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/romiisromie/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/romiisromie/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/romiisromie/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -890,6 +891,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/romiisromie/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/romiisromie/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/romiisromie/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -912,6 +914,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/romiisromie/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1034,6 +1037,7 @@
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/romiisromie/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/romiisromie/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -1052,6 +1056,7 @@
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/romiisromie/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/romiisromie/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/romiisromie/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/romiisromie/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/romiisromie/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -1256,4 +1261,8 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/romiisromie/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/romiisromie/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/romiisromie/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
