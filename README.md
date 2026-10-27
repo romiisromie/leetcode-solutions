@@ -270,6 +270,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/romiisromie/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -391,6 +392,7 @@
 | [2223-sum-of-scores-of-built-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/romiisromie/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -420,6 +422,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/romiisromie/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -656,6 +659,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/romiisromie/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/romiisromie/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
 | ------- |
@@ -893,6 +897,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/romiisromie/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/romiisromie/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Queue
 |  |
 | ------- |
@@ -1027,6 +1032,7 @@
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/romiisromie/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -1249,6 +1255,7 @@
 | [0307-range-sum-query-mutable](https://github.com/romiisromie/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Treap
 |  |
 | ------- |
