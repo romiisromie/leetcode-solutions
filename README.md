@@ -429,6 +429,7 @@
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
+| [0093-restore-ip-addresses](https://github.com/romiisromie/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/romiisromie/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0394-decode-string) |
@@ -1035,6 +1036,7 @@
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/romiisromie/leetcode-solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/romiisromie/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/romiisromie/leetcode-solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
