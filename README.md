@@ -219,6 +219,7 @@
 | [1032-stream-of-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [1046-last-stone-weight](https://github.com/romiisromie/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1191-k-concatenation-maximum-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -1001,6 +1002,7 @@
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1191-k-concatenation-maximum-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/romiisromie/leetcode-solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1301-number-of-paths-with-max-score](https://github.com/romiisromie/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/romiisromie/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
