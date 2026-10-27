@@ -205,6 +205,7 @@
 | [0815-bus-routes](https://github.com/romiisromie/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/romiisromie/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/romiisromie/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/romiisromie/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -862,6 +863,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/romiisromie/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/romiisromie/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
