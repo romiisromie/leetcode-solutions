@@ -171,6 +171,7 @@
 | [0118-pascals-triangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romiisromie/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/romiisromie/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/romiisromie/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
@@ -865,6 +866,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/romiisromie/leetcode-solutions/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/romiisromie/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
