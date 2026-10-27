@@ -71,6 +71,7 @@
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/romiisromie/leetcode-solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2080-range-frequency-queries](https://github.com/romiisromie/leetcode-solutions/tree/master/2080-range-frequency-queries) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/romiisromie/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2502-design-memory-allocator](https://github.com/romiisromie/leetcode-solutions/tree/master/2502-design-memory-allocator) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/romiisromie/leetcode-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/romiisromie/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -259,6 +260,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/romiisromie/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/romiisromie/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/romiisromie/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/romiisromie/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/romiisromie/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/romiisromie/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/romiisromie/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -355,6 +357,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/romiisromie/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/romiisromie/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/romiisromie/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/romiisromie/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -424,6 +427,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/romiisromie/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/romiisromie/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/romiisromie/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/romiisromie/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/romiisromie/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
