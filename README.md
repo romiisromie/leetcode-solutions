@@ -329,6 +329,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/romiisromie/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/romiisromie/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3689-maximum-total-subarray-value-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/romiisromie/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/romiisromie/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -451,6 +452,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3620-network-recovery-pathways](https://github.com/romiisromie/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/romiisromie/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Tree
 |  |
@@ -922,6 +924,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/romiisromie/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
@@ -1103,6 +1106,7 @@
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/romiisromie/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
