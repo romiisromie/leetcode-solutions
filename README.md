@@ -274,6 +274,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/romiisromie/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/romiisromie/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/romiisromie/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/romiisromie/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/romiisromie/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/romiisromie/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/romiisromie/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -355,6 +356,7 @@
 | [1929-concatenation-of-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/romiisromie/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/romiisromie/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2502-design-memory-allocator](https://github.com/romiisromie/leetcode-solutions/tree/master/2502-design-memory-allocator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/romiisromie/leetcode-solutions/tree/master/3379-transformed-array) |
@@ -658,6 +660,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/romiisromie/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romiisromie/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/romiisromie/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
