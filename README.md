@@ -194,6 +194,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/romiisromie/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/romiisromie/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/romiisromie/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/romiisromie/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/romiisromie/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -745,6 +746,7 @@
 | [0371-sum-of-two-integers](https://github.com/romiisromie/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/romiisromie/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/romiisromie/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/romiisromie/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
