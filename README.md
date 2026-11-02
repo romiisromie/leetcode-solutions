@@ -181,6 +181,7 @@
 | [0045-jump-game-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/romiisromie/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/romiisromie/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -757,6 +758,7 @@
 | [0007-reverse-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/romiisromie/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -899,6 +901,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/romiisromie/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/romiisromie/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/romiisromie/leetcode-solutions/tree/master/0463-island-perimeter) |
