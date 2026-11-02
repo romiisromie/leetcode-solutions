@@ -33,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/romiisromie/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/romiisromie/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/romiisromie/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -172,6 +173,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/romiisromie/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/romiisromie/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/romiisromie/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -890,6 +892,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/romiisromie/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/romiisromie/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/romiisromie/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -1254,6 +1257,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/romiisromie/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/romiisromie/leetcode-solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/romiisromie/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
@@ -1536,4 +1540,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0292-nim-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
