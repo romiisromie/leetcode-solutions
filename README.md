@@ -183,6 +183,7 @@
 | [0047-permutations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/romiisromie/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/romiisromie/leetcode-solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -1273,6 +1274,7 @@
 | [0040-combination-sum-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/romiisromie/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/romiisromie/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/romiisromie/leetcode-solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/romiisromie/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
@@ -1559,6 +1561,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/romiisromie/leetcode-solutions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
