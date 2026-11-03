@@ -188,6 +188,7 @@
 | [0054-spiral-matrix](https://github.com/romiisromie/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/romiisromie/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
