@@ -186,6 +186,7 @@
 | [0051-n-queens](https://github.com/romiisromie/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/romiisromie/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -969,6 +970,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/romiisromie/leetcode-solutions/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/romiisromie/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -1100,6 +1102,7 @@
 | [0042-trapping-rain-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/romiisromie/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0097-interleaving-string) |
