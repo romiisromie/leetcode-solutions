@@ -193,6 +193,7 @@
 | [0063-unique-paths-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/romiisromie/leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/romiisromie/leetcode-solutions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -390,6 +391,7 @@
 | [0054-spiral-matrix](https://github.com/romiisromie/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/romiisromie/leetcode-solutions/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/romiisromie/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/romiisromie/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/romiisromie/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -536,6 +538,7 @@
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/romiisromie/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/romiisromie/leetcode-solutions/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/romiisromie/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/romiisromie/leetcode-solutions/tree/master/0115-distinct-subsequences) |
