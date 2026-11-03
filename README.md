@@ -192,6 +192,7 @@
 | [0059-spiral-matrix-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/romiisromie/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/romiisromie/leetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -771,6 +772,7 @@
 | [0013-roman-to-integer](https://github.com/romiisromie/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/romiisromie/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/romiisromie/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/romiisromie/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/romiisromie/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/romiisromie/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/romiisromie/leetcode-solutions/tree/master/0089-gray-code) |
