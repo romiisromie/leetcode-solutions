@@ -199,6 +199,7 @@
 | [0068-text-justification](https://github.com/romiisromie/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/romiisromie/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/romiisromie/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/romiisromie/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/romiisromie/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/romiisromie/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/romiisromie/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -680,6 +681,7 @@
 | [0047-permutations-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/romiisromie/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/romiisromie/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/romiisromie/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/romiisromie/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romiisromie/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -741,6 +743,7 @@
 | [0027-remove-element](https://github.com/romiisromie/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/romiisromie/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/romiisromie/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/romiisromie/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/romiisromie/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/romiisromie/leetcode-solutions/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/romiisromie/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -1636,4 +1639,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/romiisromie/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/romiisromie/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/romiisromie/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
