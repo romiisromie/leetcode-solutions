@@ -419,6 +419,7 @@
 | [2043-simple-bank-system](https://github.com/romiisromie/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/romiisromie/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/romiisromie/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/romiisromie/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2502-design-memory-allocator](https://github.com/romiisromie/leetcode-solutions/tree/master/2502-design-memory-allocator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/romiisromie/leetcode-solutions/tree/master/3379-transformed-array) |
@@ -608,6 +609,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/romiisromie/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/romiisromie/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/romiisromie/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/romiisromie/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/romiisromie/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/romiisromie/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
