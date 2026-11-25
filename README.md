@@ -109,6 +109,7 @@
 | [3731-find-missing-elements](https://github.com/romiisromie/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -409,6 +410,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/romiisromie/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/romiisromie/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
@@ -502,6 +504,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/romiisromie/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/romiisromie/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/romiisromie/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1464,6 +1467,7 @@
 | [1392-longest-happy-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -1471,6 +1475,7 @@
 | [1392-longest-happy-prefix](https://github.com/romiisromie/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/romiisromie/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Minimax
 |  |
 | ------- |
@@ -1570,6 +1575,7 @@
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/romiisromie/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/romiisromie/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
 |  |
 | ------- |
